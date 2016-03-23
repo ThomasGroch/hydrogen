@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/company
+END
+company_create_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/company/company_create_view.php
+END
+company_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/company/company_view.php
+END
+company_update_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/company/company_update_form.php
+END
+companies_mini_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/company/companies_mini_view.php
+END
+company_update_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/company/company_update_view.php
+END
+company_mini_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/company/company_mini_view.php
+END
+my_companies_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/codebase/!svn/ver/116/trunk/modules/pcr/views/company/my_companies_view.php
+END
+company_create_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/company/company_create_form.php
+END
+company_show_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/company/company_show_view.php
+END

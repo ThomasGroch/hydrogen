@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/site
+END
+site_profile_create_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/site/site_profile_create_form.php
+END
+sites_mini_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/site/sites_mini_view.php
+END
+site_profile_create_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/codebase/!svn/ver/120/trunk/modules/pcr/views/site/site_profile_create_view.php
+END
+site_profile_update_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/site/site_profile_update_form.php
+END
+site_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/site/site_view.php
+END
+site_create_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/site/site_create_form.php
+END
+site_show_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/codebase/!svn/ver/120/trunk/modules/pcr/views/site/site_show_view.php
+END
+site_create_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/codebase/!svn/ver/120/trunk/modules/pcr/views/site/site_create_view.php
+END
+site_update_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/site/site_update_form.php
+END
+site_update_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/codebase/!svn/ver/120/trunk/modules/pcr/views/site/site_update_view.php
+END
+site_mini_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/codebase/!svn/ver/127/trunk/modules/pcr/views/site/site_mini_view.php
+END

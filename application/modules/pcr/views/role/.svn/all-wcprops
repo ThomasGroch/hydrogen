@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/codebase/!svn/ver/118/trunk/modules/pcr/views/role
+END
+roles_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/codebase/!svn/ver/118/trunk/modules/pcr/views/role/roles_view.php
+END
+role_create_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/role/role_create_form.php
+END
+role_show_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/role/role_show_view.php
+END
+role_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/role/role_view.php
+END
+role_create_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/role/role_create_view.php
+END
+role_update_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/role/role_update_form.php
+END
+role_update_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/role/role_update_view.php
+END
+role_mini_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/codebase/!svn/ver/118/trunk/modules/pcr/views/role/role_mini_view.php
+END

@@ -1,0 +1,29 @@
+<?php
+echo form_open($this->ctrlr_name . "/login");
+?>
+<div class="clearfix">
+    <?php echo form_label(lang('primary_email'), 'primary_email'); ?>
+    <div class="input">
+    <?php echo form_input(array('name' => 'primary_email', 'value' => set_value('primary_email'))); ?>
+    <span class="help-inline"><?php echo form_error('primary_email'); ?></span>
+    </div>
+    
+</div>
+<div class="clearfix">
+    <?php echo form_label(lang('password'), 'password'); ?>
+    <div class="input"><?php echo form_password(array('name' => 'password', 'value' => set_value(''))); ?>
+    <span class="help-inline"><?php echo form_error('password'); ?></span>
+    </div>
+    
+</div>    
+<div class="clearfix">
+    <?php echo form_label(lang('remember'), 'remember'); ?>
+    <div class="input"><?php echo form_checkbox('remember', '1', FALSE); ?></div>
+    <span class="help-inline"><?php echo form_error('remember'); ?></span>
+</div>
+    
+<div class="actions">
+    <div class="input"><?php echo form_submit('submit', lang('send'), 'class="btn"'); ?></div>
+</div>
+
+<?php echo form_close(); ?>

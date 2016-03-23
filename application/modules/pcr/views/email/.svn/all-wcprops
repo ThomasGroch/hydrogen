@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/email
+END
+email_update_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/email/email_update_form.php
+END
+email_update_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/codebase/!svn/ver/120/trunk/modules/pcr/views/email/email_update_view.php
+END
+email_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/email/email_view.php
+END
+email_mini_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/email/email_mini_view.php
+END
+email_profile_create_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/email/email_profile_create_form.php
+END
+email_profile_create_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projects/codebase/!svn/ver/120/trunk/modules/pcr/views/email/email_profile_create_view.php
+END
+email_profile_update_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/email/email_profile_update_form.php
+END
+email_create_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/email/email_create_form.php
+END
+email_show_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/codebase/!svn/ver/120/trunk/modules/pcr/views/email/email_show_view.php
+END
+email_create_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/codebase/!svn/ver/120/trunk/modules/pcr/views/email/email_create_view.php
+END
+emails_mini_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/email/emails_mini_view.php
+END

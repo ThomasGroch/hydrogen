@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/person
+END
+person_create_success_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/person/person_create_success_view.php
+END
+people_mini_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/person/people_mini_view.php
+END
+person_create_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/codebase/!svn/ver/127/trunk/modules/pcr/views/person/person_create_form.php
+END
+person_show_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/person/person_show_view.php
+END
+person_create_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/person/person_create_view.php
+END
+person_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/person/person_view.php
+END
+person_update_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/person/person_update_form.php
+END
+person_invite_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/person/person_invite_form.php
+END
+person_update_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/person/person_update_view.php
+END
+person_invite_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/codebase/!svn/ver/108/trunk/modules/pcr/views/person/person_invite_view.php
+END
+person_mini_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/person/person_mini_view.php
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/address
+END
+address_profile_create_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/address/address_profile_create_form.php
+END
+address_city_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/address/address_city_list.php
+END
+address_profile_create_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/projects/codebase/!svn/ver/120/trunk/modules/pcr/views/address/address_profile_create_view.php
+END
+address_profile_update_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/projects/codebase/!svn/ver/127/trunk/modules/pcr/views/address/address_profile_update_form.php
+END
+address_create_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/address/address_create_form.php
+END
+address_show_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/codebase/!svn/ver/120/trunk/modules/pcr/views/address/address_show_view.php
+END
+address_create_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/codebase/!svn/ver/120/trunk/modules/pcr/views/address/address_create_view.php
+END
+address_update_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/codebase/!svn/ver/127/trunk/modules/pcr/views/address/address_update_form.php
+END
+address_update_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/codebase/!svn/ver/120/trunk/modules/pcr/views/address/address_update_view.php
+END
+addresses_mini_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/address/addresses_mini_view.php
+END
+address_mini_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/address/address_mini_view.php
+END

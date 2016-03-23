@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/codebase/!svn/ver/120/trunk/modules/pcr/views/type_phone
+END
+type_phone_mini_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/type_phone/type_phone_mini_view.php
+END
+type_phones_mini_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projects/codebase/!svn/ver/120/trunk/modules/pcr/views/type_phone/type_phones_mini_view.php
+END
+type_phone_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/type_phone/type_phone_view.php
+END
+type_phone_create_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/type_phone/type_phone_create_form.php
+END
+type_phone_show_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projects/codebase/!svn/ver/120/trunk/modules/pcr/views/type_phone/type_phone_show_view.php
+END
+type_phone_create_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projects/codebase/!svn/ver/120/trunk/modules/pcr/views/type_phone/type_phone_create_view.php
+END
+type_phone_update_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projects/codebase/!svn/ver/98/trunk/modules/pcr/views/type_phone/type_phone_update_form.php
+END
+type_phone_update_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projects/codebase/!svn/ver/120/trunk/modules/pcr/views/type_phone/type_phone_update_view.php
+END

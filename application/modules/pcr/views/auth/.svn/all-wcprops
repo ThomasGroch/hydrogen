@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/auth
+END
+login_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/codebase/!svn/ver/129/trunk/modules/pcr/views/auth/login_form.php
+END
+login_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/codebase/!svn/ver/63/trunk/modules/pcr/views/auth/login_view.php
+END
